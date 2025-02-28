@@ -1,0 +1,58 @@
+{
+  "info": {
+    "_postman_id": "c5223b5e-3caa-450d-a40a-dba348edfad7",
+    "name": "AuthSync ChatDrive API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "32429135"
+  },
+  "item": [
+    {
+      "name": "Auth",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "message": "Redirect to Google OAuth for authentication"
+        }
+      ]
+    },
+    {
+      "name": "Drive Connect API",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "message": "Authenticate Google Drive"
+        }
+      ]
+    },
+    {
+      "name": "Drive Upload API",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "message": "Upload file to Google Drive"
+        }
+      ]
+    },
+    {
+      "name": "chat",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "message": "Chat App is working inside authSync!"
+        }
+      ]
+    }
+  ]
+}
