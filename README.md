@@ -106,10 +106,7 @@ Backend: Django + Gunicorn
 📜 License
 This project is licensed under the MIT License.
 
-📧 Contact
-For any issues, contact:
-✉️ Email: your-email@example.com
-📌 GitHub Repo: AuthSync ChatDrive
+GitHub Repo: AuthSync ChatDrive
 
 ✅ Now your API is fully documented and ready to use! 🚀
 
