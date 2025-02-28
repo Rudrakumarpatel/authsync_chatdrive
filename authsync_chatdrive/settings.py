@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-$%58t_pu%_v!y7gqq#=3x%w%hg+4!aj(t$r1fg($!i_3faf+_r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["authsync-chatdrive.onrender.com"]
 
 
 # Application definition
